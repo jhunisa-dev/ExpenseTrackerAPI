@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5y4rx/oLUU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SBCOMP INC\\Desktop\\ExpenseTracker\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SBCOMP INC\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
+    "C:\\Users\\SBCOMP INC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\SBCOMP INC\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
