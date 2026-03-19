@@ -38,6 +38,9 @@ C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Mi
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -153,6 +156,4 @@ C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\obj\Debug\net9.0\re
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\obj\Debug\net9.0\ExpenseTrackerAPI.pdb
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\obj\Debug\net9.0\ExpenseTrackerAPI.genruntimeconfig.cache
 C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\obj\Debug\net9.0\ref\ExpenseTrackerAPI.dll
-C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SBCOMP INC\Desktop\ExpenseTracker\ExpenseTrackerAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

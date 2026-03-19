@@ -8,6 +8,7 @@ namespace ExpenseTrackerAPI.Models
         public string Username { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public string PasswordHash { get; set; } = string.Empty;
+        public string PreferredCurrency { get; set; } = "USD";
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         // Navigation property: A user can have many transactions
