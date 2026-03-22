@@ -4947,23 +4947,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SBCOMP INC\\.nuget\\packages\\": {},
+    "C:\\Users\\Jhunisa Mae\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SBCOMP INC\\Desktop\\ExpenseTracker\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+      "projectUniqueName": "C:\\DevOps\\ExpenseTracker\\ExpenseTrackerAPI.csproj",
       "projectName": "ExpenseTrackerAPI",
-      "projectPath": "C:\\Users\\SBCOMP INC\\Desktop\\ExpenseTracker\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
-      "packagesPath": "C:\\Users\\SBCOMP INC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SBCOMP INC\\Desktop\\ExpenseTracker\\ExpenseTrackerAPI\\obj\\",
+      "projectPath": "C:\\DevOps\\ExpenseTracker\\ExpenseTrackerAPI.csproj",
+      "packagesPath": "C:\\Users\\Jhunisa Mae\\.nuget\\packages\\",
+      "outputPath": "C:\\DevOps\\ExpenseTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SBCOMP INC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jhunisa Mae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4972,6 +4972,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5050,7 +5051,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

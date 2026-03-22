@@ -12,6 +12,7 @@ namespace ExpenseTrackerAPI.Models
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         // Navigation property: A user can have many transactions
+        public List<Category> Categories { get; set; } = new();
         public List<Transaction> Transactions { get; set; } = new();
     }
 }

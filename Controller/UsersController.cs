@@ -23,6 +23,7 @@ namespace ExpenseTrackerAPI.Controllers
         }
 
         // GET /api/users/profile
+        // --> (?) /api/Users/profile/{id}
         [HttpGet("profile")]
         public async Task<ActionResult<UserProfileDto>> GetProfile()
         {
@@ -36,6 +37,8 @@ namespace ExpenseTrackerAPI.Controllers
         }
 
         // PUT /api/users/profile
+        // --> password changes even if current and new password are the same
+        // --> verification on currency
         [HttpPut("profile")]
         public async Task<ActionResult<UserProfileDto>> UpdateProfile(UpdateProfileRequest request)
         {
